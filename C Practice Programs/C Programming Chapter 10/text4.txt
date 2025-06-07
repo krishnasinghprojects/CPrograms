@@ -1,0 +1,4 @@
+Employee 1 : Abracadabra
+Salary : 2000
+Employee 2 : Ramanujan
+Salary : 5000
